@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    android:title="Settings"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:defaultValue="@string/settings_order_by_btc_value"
+        android:entries="@array/settings_order_by_labels"
+        android:entryValues="@array/settings_order_by_value"
+        android:key="@string/settings_order_key"
+        android:title="Sort by"/>
+
+</PreferenceScreen>

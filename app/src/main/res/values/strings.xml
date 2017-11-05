@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Crypto Converter</string>
+    <string name="convert_currency">Convert base currency</string>
+
+    //about xml layout
+    <string name="about">CryptoConverter provides the list of most traded crypto-currency pairs. Indicating the volume-24hr, MarketCap, percentage change-24hr, price and other important trading parameters.\n\nThe base currency can be changed from BTC to ETH.\nThis application also provides a platform for converting currency pairs in real time. </string>
+    <string name="kadiri_damilola">Kadiri Damilola\nGithub: @damkad</string>
+
+    <string name="settings_order_default">@string/settings_order_by_btc_value</string>
+    <string name="settings_order_key">Order by</string>
+    <!--string for order by ETH-->
+    <string name="settings_order_by_eth_label">ETH</string>
+    <string name="settings_order_by_eth_value">ETH</string>
+
+    <!--string for sort by BTC-->
+    <string name="settings_order_by_btc_label">BTC</string>
+    <string name="settings_order_by_btc_value">BTC</string>
+    //opacity
+    <string name="value_opacity_main">0.1f</string>
+    <string name="value_opacity">0.9f</string>
+</resources>

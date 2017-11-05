@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#32caca</color>
+    <color name="colorPrimaryDark">#009688</color>
+    <color name="colorAccent">#23e256</color>
+    <color name="background">#c1c8ce</color>
+    <color name="converter">#32caca</color>
+    <color name="currency">#32caca</color>
+    <color name="percentage">#000000</color>
+    <color name="base">#448aff</color>
+    <color name="price">#ffd700</color>
+
+</resources>
